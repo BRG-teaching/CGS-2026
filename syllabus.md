@@ -49,23 +49,32 @@ This course is conceived to take place in the classroom, where interaction betwe
 
 <figure><img src=".gitbook/assets/CGS_2026 - Schedule.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 ## 5. Evaluation
 
-The students will be evaluated based on the completion of the exercises. There is no final exam.
+Students will be evaluated based on the completion of four exercises and an individual final project. There is no final exam.
+
+
+
+* **EX A** — Parametric Initials 5%&#x20;
+* **EX B** — Single-node Equilibrium 20%&#x20;
+* **EX C** — Cables and Arches 20%&#x20;
+* **EX D** — Arch–Cable Systems 20%&#x20;
+* **EX E** — Individual Project 35%
+
+
+
+Each exercise will be evaluated based on two main criteria:
+
+1. **Graphic statics model and exploration:** the submitted Rhino and Grasshopper files should be complete and functional and demonstrate the principles addressed in the exercise. The interactive model should be used to explore relevant structural relationships.
+2. **Communication and understanding:** a document using the provided template should clearly communicate the model, the exploration performed, and the main observations or conclusions. Written explanations should be supported by appropriate diagrams, screenshots, sketches, or other visual material.
+
+For the individual project, students will develop an interactive graphic statics model and use it to systematically explore and describe a structural design space. The project will be evaluated based on the development and functionality of the model, the exploration of the design space, the understanding and interpretation of structural relationships, and the clarity of communication.
 
 {% hint style="danger" %}
 **Late submission will NOT be accepted**
 
 In case of medical or family emergencies that force a delay in your submission, you must show a medical report.
 {% endhint %}
-
-Each exercise will be evaluated based on two criteria:
-
-**1. Complete solution:** For each task of the exercise, completed and working Rhino files and also supporting Grasshopper files must be submitted.
-
-**2. Clear communication of results:** In computational research, communicating one's abstract ideas, technical procedures/approach and results are just as important as the research itself. For each exercise, the files mentioned above will be accompanied by a document (using the template provided, for each exercise), which answers the questions of the exercises and include any additional comments or remarks. The questions need to be answered with clear writing and supported by images, screenshots, hand-sketches, or any other additional material.
 
 ### Submissions
 
@@ -86,12 +95,6 @@ Examples:
 {% hint style="info" %}
 Please do **not** submit .pages files
 {% endhint %}
-
-## 6. Communication
-
-### Slack
-
-Due to the hands-on, technical nature of the course's tutorial and exercises, Slack will be used to provide real-time technical support, communication, and feedback. You can join the dedicated Slack workspace for the course [**here**](https://join.slack.com/t/computational-r9a2364/shared_invite/zt-2qolno1ub-XRPwtRXIuDuIHJWn0jQEXg).
 
 ### Email
 
