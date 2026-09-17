@@ -47,6 +47,8 @@ This course is conceived to take place in the classroom, where interaction betwe
 
 ## 4. Schedule
 
+<figure><img src=".gitbook/assets/CGS_2026 - Schedule.jpg" alt=""><figcaption></figcaption></figure>
+
 
 
 ## 5. Evaluation
