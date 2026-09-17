@@ -1,58 +1,18 @@
 ---
-description: Graphic statics and Grasshopper
+description: Parametric Initials
 ---
 
 # Exercise
 
 {% hint style="info" %}
-Complete the exercise below and submit the files **by 09:45pm on Friday, Sept 27th**.
+Complete the exercise below and submit the files **by 09:45pm on Friday, Oct 2nd**.
 
-File 1: Rhino file with the solutions of EX A-1.
-
-File 2: Grasshopper file with the solution of EX A-2.
+File: Grasshopper file with the solution.
 
 Please follow the file naming convention as shown in the [**Syllabus**](../../syllabus.md#submissions).
 
 #### [Submit here](https://moodle-app2.let.ethz.ch/course/view.php?id=23670\&lang=en)
 {% endhint %}
-
-{% hint style="info" %}
-Use the Rhinoceros file you will find [**here**](./#files)**.**
-{% endhint %}
-
-### Task 0 - Review eQUILIBRIUM drawings
-
-eQUILIBRIUM, an interactive environment for graphic statics-based structural design, provides examples of pre-constructed graphic statics drawings. These drawings are interactive and have various features that can be used to learn various fundamental principles of graphic statics.
-
-For the first task of this exercise, simply check out the first two rows of the "drawings" page on the [eQUILIBRIUM platform](https://block.arch.ethz.ch/eq/drawing), and learn the principles and construction techniques demonstrated in each drawing.
-
-![](<../../.gitbook/assets/image (244).png>)
-
-### Task 1 - Resultant of two non-parallel forces
-
-For the given loading case, find the magnitude and direction (indicate using the `ArrowHead` command in Rhino) of the resultant in the force diagram as well as its position in the form diagram.
-
-![](<../../.gitbook/assets/image (272).png>)
-
-### Task 2 - Resultant of several non-parallel forces
-
-Find the magnitude and direction (indicate using the `ArrowHead` command in Rhino) of the resultant in the force diagram as well as its position in the form diagram by using a trial funicular.
-
-![](<../../.gitbook/assets/image (390).png>)
-
-### Task 3 - Resultant of several parallel forces
-
-Given is a shape of stacked boxes glued together. Each acting force corresponds to the weight of one box. Find the magnitude and the direction of the resultant (indicate direction using the `ArrowHead` command in Rhino) in the force diagram as well as its position in the form diagram by using a trial funicular and check whether the arrangement is stable.
-
-<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
-
-### Task 4 - Internal forces
-
-Draw a corresponding force diagram for each subsystem (a-f). Determine the magnitude \[kN] of each force and mark its direction (using the `ArrowHead` command in Rhino) in the subsystem. Indicate tension forces with red and compression forces with blue.
-
-![](<../../.gitbook/assets/image (81).png>)
-
-## EX A-2: Grasshopper basics
 
 ![](../../.gitbook/assets/csd1_ex1_balloons.png)
 

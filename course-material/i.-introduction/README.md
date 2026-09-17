@@ -1,15 +1,15 @@
-# A. Algorithmic Design and Thinking
+# A. Algorithmic Design Thinking
 
-{% content-ref url="../ii.-procedural-gs-i/lecture-1.md" %}
-[lecture-1.md](../ii.-procedural-gs-i/lecture-1.md)
+{% content-ref url="/broken/pages/KSKdLDe7cNdGZeCycAYB" %}
+[Broken link](/broken/pages/KSKdLDe7cNdGZeCycAYB)
 {% endcontent-ref %}
 
 {% content-ref url="tutorial-1.md" %}
 [tutorial-1.md](tutorial-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="exercise-1.md" %}
-[exercise-1.md](exercise-1.md)
+{% content-ref url="/broken/pages/Tln80eQQwRkB2SOixe2t" %}
+[Broken link](/broken/pages/Tln80eQQwRkB2SOixe2t)
 {% endcontent-ref %}
 
 ## Files
