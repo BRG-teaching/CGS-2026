@@ -2,10 +2,10 @@
 description: Graphic statics and Grasshopper
 ---
 
-# Exercise
+# Copy of Exercises A-1 and A-2
 
 {% hint style="info" %}
-Complete the exercise below and submit the files **by 09:45pm on Friday, Sept 27th**.
+Complete the exercises below and submit the files **by 09:45pm on Friday, Sept 27th**.
 
 File 1: Rhino file with the solutions of EX A-1.
 
@@ -17,7 +17,7 @@ Please follow the file naming convention as shown in the [**Syllabus**](../../sy
 {% endhint %}
 
 {% hint style="info" %}
-Use the Rhinoceros file you will find [**here**](./#files)**.**
+Use the Rhinoceros file you will find [**here**](../i.-introduction/#files)**.**
 {% endhint %}
 
 ### Task 0 - Review eQUILIBRIUM drawings
