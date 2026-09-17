@@ -4,15 +4,18 @@
 
 ## Welcome to Computational Graphic Statics!
 
-This course explores new structural design opportunities that arise when combining graphic statics —an intuitive, equilibrium-based method for form-finding, analysis, and design of structures— with computational tools. The course begins with a review of graphic statics fundamentals and an introduction to basic parametric tools. It then focuses on various computational approaches for programming graphic statics algorithms, ranging from linear (procedural) algorithms to more complex data structures.
+This course explores graphic statics—an intuitive, equilibrium-based method for the form-finding, analysis, and design of structures—through interactive parametric models. By making graphic statics constructions dynamic and manipulable, students can directly explore the relationships between structural geometry, forces, loads, and support conditions.
+
+The course begins with an introduction to algorithmic design thinking and the fundamentals of Grasshopper, followed by the principles of graphic statics and equilibrium. It then introduces computational graphic statics through increasingly complex structural systems, from single-node equilibrium to cables, arches, and combined arch–cable systems. Contemporary research in computational graphic statics provides a broader context for these methods and their ongoing development.
 
 Specifically, students will:
 
-* Create interactive graphic statics drawings using Grasshopper.
-* Read and code basic graphic statics algorithms using Python.
-* Explore design possibilities with Interactive Graphic Statics (IGS2), a tool developed by the Block Research Group for analyzing, form-finding, and designing 2D equilibrium structural systems based on graphic statics.
+* Develop interactive graphic statics models using Grasshopper.
+* Explore structural equilibrium by manipulating geometry, loads, forces, and support conditions.
+* Apply graphic statics to the form-finding and analysis of cables, arches, and arch–cable systems.
+* Gain an overview of contemporary research and computational approaches in graphic statics.
 
-The practical potential and relevance of these methods will be demonstrated through a series of design-oriented tutorials and exercises.
+These concepts will be explored through a series of tutorials and exercises, culminating in an individual investigation using an interactive graphic statics model.
 
 ### **General information**
 
