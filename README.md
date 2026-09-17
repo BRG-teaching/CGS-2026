@@ -2,6 +2,8 @@
 
 <figure><img src=".gitbook/assets/CGS_cover.jpg" alt=""><figcaption></figcaption></figure>
 
+Test
+
 ## Welcome to Computational Graphic Statics!
 
 This course explores new structural design opportunities that arise when combining graphic statics —an intuitive, equilibrium-based method for form-finding, analysis, and design of structures— with computational tools. The course begins with a review of graphic statics fundamentals and an introduction to basic parametric tools. It then focuses on various computational approaches for programming graphic statics algorithms, ranging from linear (procedural) algorithms to more complex data structures.
