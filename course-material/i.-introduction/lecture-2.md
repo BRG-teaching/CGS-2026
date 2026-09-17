@@ -1,6 +1,8 @@
 # Lecture
 
-<figure><img src="../../.gitbook/assets/CGS_B_lecture.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CGS_A_lecture.jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 In this lecture, the following topics are presented:
 
@@ -9,5 +11,5 @@ In this lecture, the following topics are presented:
 * Basic elements and concepts of algorithmic design
 
 {% hint style="info" %}
-You will find the lecture pdf [**here**](../ii.-procedural-gs-i/#files)**.**
+You will find the lecture pdf [**here**](/broken/pages/Bgac4WhYKYivX0BbVlSb#files)**.**
 {% endhint %}
