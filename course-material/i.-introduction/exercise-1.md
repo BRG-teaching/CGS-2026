@@ -36,25 +36,25 @@ For the given loading case, find the magnitude and direction (indicate using the
 
 ### Task 2 - Resultant of several non-parallel forces
 
-Find the magnitude and direction (indicate using the `ArrowHead` command in Rhino) of the resultant in the force diagram as well as its position in the form diagram by using a trial funicular.&#x20;
+Find the magnitude and direction (indicate using the `ArrowHead` command in Rhino) of the resultant in the force diagram as well as its position in the form diagram by using a trial funicular.
 
 ![](<../../.gitbook/assets/image (390).png>)
 
 ### Task 3 - Resultant of several parallel forces
 
-Given is a shape of stacked boxes glued together. Each acting force corresponds to the weight of one box. Find the magnitude and the direction of the resultant (indicate direction using the `ArrowHead` command in Rhino) in the force diagram as well as its position in the form diagram by using a trial funicular and check whether the arrangement is stable.&#x20;
+Given is a shape of stacked boxes glued together. Each acting force corresponds to the weight of one box. Find the magnitude and the direction of the resultant (indicate direction using the `ArrowHead` command in Rhino) in the force diagram as well as its position in the form diagram by using a trial funicular and check whether the arrangement is stable.
 
 <figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
 ### Task 4 - Internal forces
 
-Draw a corresponding force diagram for each subsystem (a-f). Determine the magnitude \[kN] of each force and mark its direction (using the `ArrowHead` command in Rhino) in the subsystem. Indicate tension forces with red and compression forces with blue.&#x20;
+Draw a corresponding force diagram for each subsystem (a-f). Determine the magnitude \[kN] of each force and mark its direction (using the `ArrowHead` command in Rhino) in the subsystem. Indicate tension forces with red and compression forces with blue.
 
 ![](<../../.gitbook/assets/image (81).png>)
 
 ## EX A-2: Grasshopper basics
 
-![](../../.gitbook/assets/csd1\_ex1\_balloons.png)
+![](../../.gitbook/assets/csd1_ex1_balloons.png)
 
 ### Task Description
 
@@ -92,24 +92,24 @@ This is how it looks for the initials "CSDI." In case you're wondering, CSDI wer
 
 **1.** This is how your letters should look with auxiliary points of construction and the lines/curves connecting them:
 
-![](../../.gitbook/assets/csd1\_ex1\_points-curves.png)
+![](../../.gitbook/assets/csd1_ex1_points-curves.png)
 
 **2.** This is how they should look like as balloons with a colour pattern:
 
-![](<../../.gitbook/assets/csd1\_ex1\_balloons (1).png>)
+![](../../.gitbook/assets/csd1_ex1_balloons.png)
 
 **3.** This is how you should be able to change the height, width and distance of the letters:
 
-![](../../.gitbook/assets/csd1\_ex1\_height-width-distance.gif)
+![](../../.gitbook/assets/csd1_ex1_height-width-distance.gif)
 
 **4.** This is how you should be able to change the overall position of it:
 
-![](../../.gitbook/assets/csd1\_ex1\_position.gif)
+![](../../.gitbook/assets/csd1_ex1_position.gif)
 
 **5.** This is how you should be able to change the overall scale of it:
 
-![](../../.gitbook/assets/csd1\_ex1\_scaling.gif)
+![](../../.gitbook/assets/csd1_ex1_scaling.gif)
 
 **6.** This is how you should be able to rotate the letters:
 
-![](../../.gitbook/assets/csd1\_ex1\_rotate.gif)
+![](../../.gitbook/assets/csd1_ex1_rotate.gif)

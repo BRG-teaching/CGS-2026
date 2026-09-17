@@ -1,7 +1,7 @@
-# A. Introduction
+# A. Algorithmic Design and Thinking
 
-{% content-ref url="lecture-1.md" %}
-[lecture-1.md](lecture-1.md)
+{% content-ref url="../ii.-procedural-gs-i/lecture-1.md" %}
+[lecture-1.md](../ii.-procedural-gs-i/lecture-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="tutorial-1.md" %}
@@ -16,10 +16,8 @@
 
 In this module, you will use the following files:
 
-
-
 {% file src="../../.gitbook/assets/CSDI_I_lecture.pdf" %}
 
 {% file src="../../.gitbook/assets/CSDI_I_tutorial.gh" %}
 
-{% file src="../../.gitbook/assets/CSDI_EX_I-1.3dm" %}
+{% file src="../../.gitbook/assets/CGS_EX_A-1.3dm" %}

@@ -9,5 +9,5 @@ In this lecture, the following topics are presented:
 * Basic elements and concepts of algorithmic design
 
 {% hint style="info" %}
-You will find the lecture pdf [**here**](./#files)**.**
+You will find the lecture pdf [**here**](../ii.-procedural-gs-i/#files)**.**
 {% endhint %}

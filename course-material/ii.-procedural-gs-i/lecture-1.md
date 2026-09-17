@@ -9,7 +9,7 @@ In this lecture, the following topics are presented:
 * Basic principles of graphic statics
 
 {% hint style="info" %}
-You will find the lecture pdf [**here**](./#files)**.**
+You will find the lecture pdf [**here**](../i.-introduction/#files)**.**
 {% endhint %}
 
 ## 1. Origins of graphic statics
@@ -46,10 +46,10 @@ _“... \[the structural engineering community] lost an extremely compact form o
 
 Graphic statics gradually disappeared from structural engineering practice over the 20th century due to the advancement of computers and powerful numerical software. However, there has been a recent revival of graphic statics through computational implementations, which have enabled dynamic interaction between form and force diagrams with real-time, visual feedback. These interactive implementations of graphic statics allow users to directly control the geometry of forces, which enable force-driven design approaches with high formal freedom to create structurally informed geometries during the early stages of design.
 
-![An interactive graphic statics drawing of a constant-force truss using GeoGebra (available on eQuilibrium, an online graphic-statics-based teaching platform developed by the Block Research Group).](../../.gitbook/assets/interactive\_gs\_short\_gif.gif)
+![An interactive graphic statics drawing of a constant-force truss using GeoGebra (available on eQuilibrium, an online graphic-statics-based teaching platform developed by the Block Research Group).](../../.gitbook/assets/interactive_gs_short_gif.gif)
 
 ## 5. The advent of research in graphic statics
 
 In recent years, there has been a rise of interest and research within the field of graphic statics. This is mainly due to the new design and research possibilities that arise when graphic statics is combined with advanced parametric and computer-aided design (CAD) software, which are readily available today. The three-dimensional modelling capabilities of most CAD software used in architectural design allows structural design explorations using 3D graphic statics based on polyhedral reciprocal diagrams, which was challenging with 2D drafting tools or software. Over the past three decades, the annual number of publications written in English on graphic statics has increased at an almost exponential rate (Figure 1.3). Although the origins of graphic statics date back to the 18th century, computational graphic statics and 3D graphic statics, in particular, are new emerging areas of research with countless design and research opportunities yet to be discovered.
 
-![History of graphic statics related publications in English by year, where “graphic statics” or “graphical statics” is included in either the title or within the document. Some of the notable publications on Goolge Scholar (2018)](../../.gitbook/assets/gs\_publications-01.png)
+![History of graphic statics related publications in English by year, where “graphic statics” or “graphical statics” is included in either the title or within the document. Some of the notable publications on Goolge Scholar (2018)](../../.gitbook/assets/gs_publications-01.png)

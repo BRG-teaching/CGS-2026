@@ -1,7 +1,7 @@
 # B. Procedural GS
 
-{% content-ref url="lecture-2.md" %}
-[lecture-2.md](lecture-2.md)
+{% content-ref url="../i.-introduction/lecture-2.md" %}
+[lecture-2.md](../i.-introduction/lecture-2.md)
 {% endcontent-ref %}
 
 {% content-ref url="tutorial-2.md" %}
@@ -23,8 +23,6 @@
 ## Files <a href="#files" id="files"></a>
 
 In this module, you will use the following files:
-
-
 
 {% file src="../../.gitbook/assets/CGS_EX_B-1.docx" %}
 

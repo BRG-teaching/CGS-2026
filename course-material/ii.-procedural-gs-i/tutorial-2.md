@@ -34,7 +34,7 @@ These are the four possible bridge types with a single node:
 
 Basically, it all comes down to the four basic node types:
 
-![](<../../.gitbook/assets/image (369).png>)
+![](<../../.gitbook/assets/image (139).png>)
 
 ## Implementation in Grasshopper
 
@@ -63,7 +63,7 @@ This group will define as input for the form diagram the position of the node of
 5. _Output:_ the relevant output of this group is the **node location** with a `point` container
 6. (comment: the `vector display` component is for explanation only.)
 
-![](<../../.gitbook/assets/1a\_nodal position\_.png>)
+![](<../../.gitbook/assets/1a_nodal position_.png>)
 
 #### 1.b Support position
 
@@ -76,7 +76,7 @@ This group will define as input for the form diagram the position of the anchor 
 5. _Output_: the relevant output of this group is the **support point** with a `point` container
 6. repeat the same steps for the right cliff curve and highlight the left and right side visually with group colours. (left = turquoise, right = pink)
 
-![](<../../.gitbook/assets/1b\_support position\_.png>)
+![](<../../.gitbook/assets/1b_support position_.png>)
 
 {% hint style="danger" %}
 The colour code (of pink and turquoise) in the next steps does not indicate the state of internal forces in the structure (the typical red and blue). It is just a way to label the elements in terms of left and right position!
@@ -92,7 +92,7 @@ In this group, we will define the external load. To describe a force, we need to
 4. use the `vector display` component to visualise the vector to verify if the step is correct. As anchor point set the bridge midpoint.
 5. _Output_: the relevant output of this group is the **force vector**.
 
-![](<../../.gitbook/assets/1c\_input load\_.png>)
+![](<../../.gitbook/assets/1c_input load_.png>)
 
 ### 2. Form diagram
 
@@ -113,7 +113,7 @@ By definition, the edge lines must be oriented **away** from the centre node!
 
 Now play with the position of the centre and support nodes and verify if the script works for all cases.
 
-![](<../../.gitbook/assets/2\_form diagram\_ (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/2_form diagram_.png>)
 
 {% hint style="success" %}
 The edge lines of the form diagram represent the lines of action and can be converted to vectors.
@@ -132,7 +132,7 @@ Now let's construct the force diagram by translating the lines of actions to the
 The force vector's line of action is identical to the line of action of the centre edge of the form diagram. However, it also contains the information of the force magnitude and sense, whereas the length of the centre edge in the form diagram is described geometrically and the sense changes depending on the nodal position of the bridge centre node.
 {% endhint %}
 
-![](<../../.gitbook/assets/3a\_force diagram\_.png>)
+![](<../../.gitbook/assets/3a_force diagram_.png>)
 
 Now we want to close the force polygon. To add the right and left elements we first have to construct auxiliary lines, because only their directions are determined by the lines of action, but their lengths are unknown, thus we must determine the position of the pole:
 
@@ -146,7 +146,7 @@ Now we want to close the force polygon. To add the right and left elements we fi
 By definition the edge lines order and direction in the force polygon must be in clockwise order!
 {% endhint %}
 
-![](<../../.gitbook/assets/3b\_force diagram\_.png>)
+![](<../../.gitbook/assets/3b_force diagram_.png>)
 
 Let's now complete the force polygon:
 
@@ -155,7 +155,7 @@ Let's now complete the force polygon:
 3. merge all lines of the force polygon with the `merge` component
 4. _Output:_ the edges of the **force diagram**
 
-![](<../../.gitbook/assets/3c\_force diagram\_.png>)
+![](<../../.gitbook/assets/3c_force diagram_.png>)
 
 {% hint style="warning" %}
 The edges in the force diagram indicate the magnitude of forces in the elements and are parallel to the form diagram edges. Note that the edges are not oriented yet according to their sense (compression or tension), this will be our next step.
@@ -188,16 +188,16 @@ So, if the angle is 0°, equality holds, the output is _**True,**_ thus the edge
 Compare the two following figures:
 {% endhint %}
 
-![edge in tension (same direction)](<../../.gitbook/assets/4a\_sense\_1\_ (1).png>)
+![edge in tension (same direction)](<../../.gitbook/assets/4a_sense_1_ (1).png>)
 
-![edge in compression (opposite direction)](../../.gitbook/assets/4a\_sense\_2\_.png)
+![edge in compression (opposite direction)](../../.gitbook/assets/4a_sense_2_.png)
 
 Now we have determined the sense for one edge, however, we want the result for all three edges - here, **lists** come in handy. We have already combined the data of the form diagram edges with the `merge` component into one list with all form diagram edges and the same for the force diagram. Double-check that the elements are in the same order in the list!
 
 1. connect them as input into the previous group instead of the single item edge input. Grasshopper automatically treats both lists in parallel, so that always the corresponding edges are compared.
 2. only the `weave` component must be modified so that pattern input is grafted and the output is flattened again.
 
-![](<../../.gitbook/assets/4a\_sense\_3\_ (1).png>)
+![](<../../.gitbook/assets/4a_sense_3_ (1).png>)
 
 #### 4.b Magnitude of forces
 
@@ -208,7 +208,7 @@ In this step, we want to determine the magnitude of forces: The length of an edg
 3. this result might contain many decimal digits so let's round it to 2 decimal digits using the `expression` component with _**round(x, 2).**_
 4. _Output:_ Magnitude of forces as float type ( in Grasshopper `number` container).
 
-![](../../.gitbook/assets/4b\_magnitude\_.png)
+![](../../.gitbook/assets/4b_magnitude_.png)
 
 ### 5. Visualisation
 
@@ -222,14 +222,14 @@ We start displaying the force magnitude as text in the force diagram:
 2. For the text's location choose the midpoint of the edges using the `curve middle` component.
 3. use the `text tag 3d` component to display as text the force magnitudes.
 
-![](<../../.gitbook/assets/5a\_vis\_text\_1\_ (1).png>)
+![](../../.gitbook/assets/5a_vis_text_1_.png)
 
 You can either repeat exactly the same for the edges of the form diagram or use the tree datastructure:
 
 1. add the `entwine` component to combine the two data streams into a tree of two branches. (note: the wire is dashed for trees.)
 2. in the `text tag 3d` component, the data of each branch of location is now combined with the data of the text.
 
-![](../../.gitbook/assets/5a\_vis\_text\_2\_.png)
+![](../../.gitbook/assets/5a_vis_text_2_.png)
 
 #### 5.b Visualise force vectors
 
@@ -241,7 +241,7 @@ The forces in the force diagram are visualised as vectors in red if in tension a
 4. set one `colour swatch` component to red for tension and one to blue for compression, respectively.
 5. use the `weave` component to interweave the colours according to the boolean values into one list of colour items for each edge. (same as in section _4.a Sense_, graft the input pattern and flatten the output list).
 
-![](../../.gitbook/assets/5b\_vis\_forcevectors\_.png)
+![](../../.gitbook/assets/5b_vis_forcevectors_.png)
 
 #### 5.c Visualise form diagram
 
@@ -249,7 +249,7 @@ You can follow the same principle to display the form diagram as described in th
 
 1. The `custom preview` component allows displaying the lines in the desired colours.
 
-![](../../.gitbook/assets/5c\_vis\_formvectors\_.png)
+![](../../.gitbook/assets/5c_vis_formvectors_.png)
 
 To express the force magnitude in the edges visually, use pipes that vary their diameter dependent on the force magnitude.
 
@@ -259,7 +259,7 @@ To express the force magnitude in the edges visually, use pipes that vary their 
 4. add a `dispatch` component with a `boolean toggle` component so that the pipes can also be turned off. It's like closing a valve.
 5. combine the pipes with the `entwine` component with the lines and use the tree as input for the group from the beginning of this section.
 
-![](../../.gitbook/assets/5c\_vis\_formpipes\_.png)
+![](../../.gitbook/assets/5c_vis_formpipes_.png)
 
 Now your Grasshopper file should be completed. Play around with the input parameters in various configurations and verify if the results make sense.
 

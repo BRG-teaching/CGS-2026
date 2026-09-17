@@ -31,7 +31,7 @@ The steps to construct the cantilever arch-cable are described as follows (Fig.2
 4. Transfer the load on the arch to the upper chord.
 5. Rebuild the entire geometry and analyze it again in IGS2 to obtain the final force diagram.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-11-26 at 00.41.38 (1).png" alt=""><figcaption><p>Fig.2</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-26 at 00.41.38.png" alt=""><figcaption><p>Fig.2</p></figcaption></figure>
 
 * Assume that the load on the structure is no longer uniform. Could the arch-cable cantilever structure take non-uniformly distributed loads? If not, could you propose a modification to stabilize the structure under the following loads (Fig.3)? (Hint: Topological modification is allowed)
 
@@ -39,11 +39,11 @@ The steps to construct the cantilever arch-cable are described as follows (Fig.2
 
 ## Task 2: Design your bridge
 
-In task 2, you will design two proposals for a bridge with a viewing cantilevering platform. The goal is to come up with a proposal that works in terms of both architecture and structure. For this:&#x20;
+In task 2, you will design two proposals for a bridge with a viewing cantilevering platform. The goal is to come up with a proposal that works in terms of both architecture and structure. For this:
 
-1. Create hand-made sketches showing the concept of bridge with red-and-blue qualitative force flow (without force diagram).&#x20;
-2. Then, solve it with IGS2 and check the forces. If the forces are too large propose a way to optimize the form.&#x20;
-3. After, add a stiffening scheme, if required, and load the structure with an asymmetric load.&#x20;
+1. Create hand-made sketches showing the concept of bridge with red-and-blue qualitative force flow (without force diagram).
+2. Then, solve it with IGS2 and check the forces. If the forces are too large propose a way to optimize the form.
+3. After, add a stiffening scheme, if required, and load the structure with an asymmetric load.
 
 Assume that:
 

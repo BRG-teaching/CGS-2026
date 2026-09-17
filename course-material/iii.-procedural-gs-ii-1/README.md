@@ -24,12 +24,10 @@
 
 In this module, you will use the following files:
 
-
-
 {% file src="../../.gitbook/assets/CGS_C_lecture.pdf" %}
 
-{% file src="../../.gitbook/assets/CGS_C-2 (1).3dm" %}
+{% file src="../../.gitbook/assets/CGS_C-2.3dm" %}
 
-{% file src="../../.gitbook/assets/CGS_C_tutorial_2.gh" %}
+{% file src="../../.gitbook/assets/CGS_C_tutorial.gh" %}
 
 {% file src="../../.gitbook/assets/CGS_EX_C-2.docx" %}

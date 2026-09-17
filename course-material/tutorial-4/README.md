@@ -8,7 +8,7 @@ In this module, you will use the following files:
 
 {% file src="../../.gitbook/assets/CSDI_IV_tutorial 1.3dm" %}
 
-{% file src="../../.gitbook/assets/CSDI_EX_IV-1.3dm" %}
+{% file src="../../.gitbook/assets/CGS_EX_D-1.3dm" %}
 
 {% file src="../../.gitbook/assets/CSDI_EX_IV-1.docx" %}
 

@@ -9,7 +9,7 @@ File 2: Grasshopper file for Task 3
 
 File 3: PDF of the word document file with answers
 
-The .json files (COMPAS-IGS) are not required.&#x20;
+The .json files (COMPAS-IGS) are not required.
 
 Please follow the file naming convention as shown in the [**Syllabus**](../../syllabus.md#submissions).
 
@@ -18,7 +18,7 @@ Please follow the file naming convention as shown in the [**Syllabus**](../../sy
 
 ## Save and load session
 
-In COMPAS toolbar, you can save the working session using button ![](../../.gitbook/assets/COMPAS\_save.png) and load the session using button ![](<../../.gitbook/assets/COMPAS\_load (1).png>). Make sure that every time you want to load a session you do it from a new Rhino scene. In other words, you must reboot Rhinoceros for every new file you open.&#x20;
+In COMPAS toolbar, you can save the working session using button ![](../../.gitbook/assets/COMPAS_save.png) and load the session using button ![](../../.gitbook/assets/COMPAS_load.png). Make sure that every time you want to load a session you do it from a new Rhino scene. In other words, you must reboot Rhinoceros for every new file you open.
 
 ## Task 1: Stability, static determinacy and degree of freedom
 
@@ -41,11 +41,11 @@ Here are the three trusses (Fig-1-1):
 2. Truss 2 with V diagonals
 3. Truss 3 with K diagonals
 
-![Fig-1-1](../../.gitbook/assets/3\_truss\_bridges.png)
+![Fig-1-1](../../.gitbook/assets/3_truss_bridges.png)
 
 ## Task 3: Truss algorithm
 
 Using Python, create an algorithm that can rapidly generate different types of trusses to later be analyzed using IGS2. To do this, first, create in Rhinoceros two curves representing the top and bottom cords of the truss. Then, divide these curves to define the number of cells of the truss. After, create the vertical and the diagonals. Finally, create the loads and reactions at the supports. Place the supports at the extremes of the truss. Once this is ready, analyze with IGS2 the cases below to understand how the different parameters influence the force flow.
 
 * 2 trusses with different top and bottom cords but same diagonals
-* 2 trusses with different diagonals but same top and bottom cords&#x20;
+* 2 trusses with different diagonals but same top and bottom cords
