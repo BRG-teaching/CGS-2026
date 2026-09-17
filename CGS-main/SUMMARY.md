@@ -1,0 +1,30 @@
+# Table of contents
+
+* [About](README.md)
+* [Syllabus](syllabus.md)
+
+## course material
+
+* [A. Introduction](course-material/i.-introduction/README.md)
+  * [Lecture](course-material/i.-introduction/lecture-1.md)
+  * [Tutorial](course-material/i.-introduction/tutorial-1.md)
+  * [Exercises A-1 and A-2](course-material/i.-introduction/exercise-1.md)
+* [B. Procedural GS](course-material/ii.-procedural-gs-i/README.md)
+  * [Lecture](course-material/ii.-procedural-gs-i/lecture-2.md)
+  * [Tutorial 1](course-material/ii.-procedural-gs-i/tutorial-2.md)
+  * [Exercise B-1](course-material/ii.-procedural-gs-i/exercise-2.md)
+  * [Tutorial 2](course-material/ii.-procedural-gs-i/tutorial-3.md)
+  * [Exercise B-2](course-material/ii.-procedural-gs-i/exercise-3.md)
+* [C. Programming GS](course-material/iii.-procedural-gs-ii-1/README.md)
+  * [Lecture](course-material/iii.-procedural-gs-ii-1/lecture.md)
+  * [Tutorial 1](course-material/iii.-procedural-gs-ii-1/tutorial-3.md)
+  * [Exercise C-1](course-material/iii.-procedural-gs-ii-1/exercise-1.md)
+  * [Tutorial 2](course-material/iii.-procedural-gs-ii-1/tutorial-3-1.md)
+  * [Exercise C-2](course-material/iii.-procedural-gs-ii-1/exercise-3.md)
+* [D. Algebraic GS](course-material/tutorial-4/README.md)
+  * [Lecture](course-material/tutorial-4/intro-ags.md)
+  * [Workflow + UI](course-material/tutorial-4/workflow-+-ui.md)
+  * [Tutorial 1](course-material/tutorial-4/iv.-tutorial.md)
+  * [Exercise D-1](course-material/tutorial-4/iv-exercise.md)
+  * [Tutorial 2](course-material/tutorial-4/iv.-tutorial-1.md)
+  * [Exercise D-2](course-material/tutorial-4/iv-exercise-1.md)
