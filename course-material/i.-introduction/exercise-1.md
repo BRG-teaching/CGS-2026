@@ -10,6 +10,8 @@ Complete the exercise below and submit the files **by 09:45 am on Friday, Oct 2n
 File: Grasshopper file with the solution.
 
 Please follow the file naming convention as shown in the [**Syllabus**](../../syllabus.md#submissions).
+
+[**Submit here**](https://moodle-app2.let.ethz.ch/course/section.php?id=267971)
 {% endhint %}
 
 ![](../../.gitbook/assets/csd1_ex1_balloons.png)
