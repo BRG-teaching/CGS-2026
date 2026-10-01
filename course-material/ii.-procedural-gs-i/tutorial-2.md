@@ -2,7 +2,7 @@
 description: Single node bridge in Grasshopper
 ---
 
-# Tutorial 1
+# Tutorial
 
 ## Learning Goals
 
@@ -264,9 +264,5 @@ To express the force magnitude in the edges visually, use pipes that vary their 
 Now your Grasshopper file should be completed. Play around with the input parameters in various configurations and verify if the results make sense.
 
 In case you could not follow, here is the completed Grasshopper definition. This should only serve as a reference if you want to look up things, but really try to **assemble it by yourself** to understand and practise! Otherwise the exercise next week will be very hard for you to tackle.
-
-{% hint style="info" %}
-You will find the Grasshopper definition [**here**](./#files).
-{% endhint %}
 
 **You made it! :)**

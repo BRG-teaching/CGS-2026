@@ -2,10 +2,10 @@
 description: Single node bridge in Grasshopper
 ---
 
-# Exercise B-1
+# Exercise
 
-{% hint style="warning" %}
-Complete the exercises below and submit the files **by 9:45 am on Friday, October 11th.**
+{% hint style="info" %}
+Complete the exercises below and submit the files **by 9:45 am on Friday, October 16th.**
 
 File 1: Rhinoceros file
 
@@ -15,7 +15,7 @@ File 3: PDF of the word document file with answers
 
 Please follow the file naming convention as shown in the [**Syllabus**](../../syllabus.md#submissions).
 
-[**Submit here**](https://moodle-app2.let.ethz.ch/course/view.php?id=23670\&lang=en)
+[**Submit here**](https://moodle-app2.let.ethz.ch/course/section.php?id=267971)
 {% endhint %}
 
 {% hint style="info" %}
@@ -24,7 +24,7 @@ Use the Rhinoceros file from the tutorial as a base to solve the tasks. We recom
 
 ### Task 0 - Flow chart
 
-Draw a simple flowchart of the algorithm from Tutorial 1.&#x20;
+Draw a simple flowchart of the algorithm from Tutorial 1.
 
 A flowchart is a step-by-step approach until you find the answer. Flowcharts help you to visualize the processes in small steps and they are very similar to how the computer executes your instructions.
 
@@ -42,7 +42,7 @@ A flowchart is a step-by-step approach until you find the answer. Flowcharts hel
 
 In this algorithm, we want to calculate the material cost of a gridshell made from bar elements. The bar elements that have a length larger than 3 meters have a different cost than those shorter than 3 meters. The algorithm picks a bar, checks its length and stores the data in the corresponding list (small or large). It does the same for all the rest of bars. As a result we know how many short and long elements there are and therefore we can calculate the cost.
 
-![](https://github.com/BlockResearchGroup/CSD2\_2022/blob/5319ae679b8e41fbf62b45afee4b4c2794c35233/2\_Geometry/Tutorial2/img/week1\_ex1.png?raw=true)
+![](https://github.com/BlockResearchGroup/CSD2_2022/blob/5319ae679b8e41fbf62b45afee4b4c2794c35233/2_Geometry/Tutorial2/img/week1_ex1.png?raw=true)
 
 ### Task 1 - Control of force diagram for single-node bridge
 
@@ -54,7 +54,7 @@ Implement the interactive **force** control in your Grasshopper definition!
 This means that instead of defining the lines of action as directions through the form diagram, the lines of actions are determined through the modification of the force diagram which thus dictates the form diagram: the point can be dragged in the force diagram and thus the form diagram adapts accordingly (see video below).
 {% endhint %}
 
-![](../../.gitbook/assets/aim\_exercise\_1\_fast4.gif)
+![](../../.gitbook/assets/aim_exercise_1_fast4.gif)
 
 ### Task 2 - Limitation of force magnitudes
 
@@ -82,7 +82,7 @@ Further, the geotechnical engineer identified **regions** of **fractured rocks**
 
 _Implement a **warning display** if the anchors are in the fractured region in your Grasshopper definition!_
 
-![](../../.gitbook/assets/aim\_exercise\_2\_fast4.gif)
+![](../../.gitbook/assets/aim_exercise_2_fast4.gif)
 
 ### Task 5 - Favourite designs
 

@@ -8,9 +8,7 @@ In this lecture, the following topics are presented:
 * The revival of graphic statics with computation
 * Basic principles of graphic statics
 
-{% hint style="info" %}
-You will find the lecture pdf [**here**](../i.-introduction/#files)**.**
-{% endhint %}
+
 
 ## 1. Origins of graphic statics
 

@@ -5,7 +5,7 @@ description: Parametric Initials
 # Exercise
 
 {% hint style="info" %}
-Complete the exercise below and submit the files **by 09:45pm on Friday, Oct 2nd**.
+Complete the exercise below and submit the files **by 09:45 am on Friday, Oct 2nd**.
 
 File: Grasshopper file with the solution.
 
