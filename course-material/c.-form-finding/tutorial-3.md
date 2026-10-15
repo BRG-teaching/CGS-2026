@@ -2,7 +2,7 @@
 description: Form-finding of funicular structures using graphic statics in Grasshopper
 ---
 
-# Tutorial 2
+# Tutorial
 
 ## Learning Goals
 
@@ -145,5 +145,5 @@ We will copy\&paste "sense", "force magnitude" and "visualization" from the Gras
 #### You made it! :) You can now explore the design space of your parametric model!
 
 {% hint style="info" %}
-You will find the Grasshopper definition [**here**](./).
+You will find the Grasshopper definition [**here**](../ii.-procedural-gs-i/).
 {% endhint %}

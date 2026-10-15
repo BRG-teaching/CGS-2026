@@ -2,10 +2,10 @@
 description: Form-finding of funicular structures using graphic statics in Grasshopper
 ---
 
-# Exercise B-2
+# Exercise
 
-{% hint style="warning" %}
-Complete the exercises below and submit the files **by 9:45 am on Friday, November 1st.**
+{% hint style="info" %}
+Complete the exercises below and submit the files **by 9:45 am on Friday, November 6th.**
 
 File 1: Rhinoceros file
 
@@ -19,12 +19,12 @@ Please follow the file naming convention as shown in the [**Syllabus**](../../sy
 {% endhint %}
 
 {% hint style="info" %}
-Use the Rhinoceros and Grasshopper files from the tutorial as a base to solve the tasks. Then, answer the questions in the docx file. You will find all these files [**here**](./).
+Use the Rhinoceros and Grasshopper files from the tutorial as a base to solve the tasks. Then, answer the questions in the docx file. You will find all these files [**here**](../ii.-procedural-gs-i/).
 {% endhint %}
 
 ### Task 0 - Flow chart
 
-Draw a simple flowchart of the algorithm from Tutorial 2.&#x20;
+Draw a simple flowchart of the algorithm from Tutorial 2.
 
 A flowchart is a step-by-step approach until you find the answer. Flowcharts help you to visualize the processes in small steps and they are very similar to how the computer executes your instructions.
 
@@ -42,7 +42,7 @@ A flowchart is a step-by-step approach until you find the answer. Flowcharts hel
 
 In this algorithm, we want to calculate the material cost of a gridshell made from bar elements. The bar elements that have a length larger than 3 meters have a different cost than those shorter than 3 meters. The algorithm picks a bar, checks its length and stores the data in the corresponding list (small or large). It does the same for all the rest of bars. As a result we know how many short and long elements there are and therefore we can calculate the cost.
 
-![](https://github.com/BlockResearchGroup/CSD2\_2022/blob/5319ae679b8e41fbf62b45afee4b4c2794c35233/2\_Geometry/Tutorial2/img/week1\_ex1.png?raw=true)
+![](https://github.com/BlockResearchGroup/CSD2_2022/blob/5319ae679b8e41fbf62b45afee4b4c2794c35233/2_Geometry/Tutorial2/img/week1_ex1.png?raw=true)
 
 ### Task 1 - Additional load
 

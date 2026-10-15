@@ -13,6 +13,6 @@
   * [Lecture](course-material/ii.-procedural-gs-i/lecture-1.md)
   * [Tutorial](course-material/ii.-procedural-gs-i/tutorial-2.md)
   * [Exercise](course-material/ii.-procedural-gs-i/exercise-2.md)
-
-* [Tutorial 2](course-material/ii.-procedural-gs-i/tutorial-3.md)
-* [Exercise B-2](course-material/ii.-procedural-gs-i/exercise-3.md)
+* [C. Form Finding](course-material/c.-form-finding/README.md)
+  * [Tutorial](course-material/c.-form-finding/tutorial-3.md)
+  * [Exercise](course-material/c.-form-finding/exercise-3.md)
