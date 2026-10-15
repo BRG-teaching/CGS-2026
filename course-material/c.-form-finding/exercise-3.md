@@ -15,16 +15,16 @@ File 3: PDF of the word document file with answers
 
 Please follow the file naming convention as shown in the [**Syllabus**](../../syllabus.md#submissions).
 
-[**Submit here**](https://moodle-app2.let.ethz.ch/course/view.php?id=23670)
+[**Submit here**](https://moodle-app2.let.ethz.ch/course/section.php?id=267971)
 {% endhint %}
 
 {% hint style="info" %}
-Use the Rhinoceros and Grasshopper files from the tutorial as a base to solve the tasks. Then, answer the questions in the docx file. You will find all these files [**here**](../ii.-procedural-gs-i/).
+Use the Rhinoceros and Grasshopper files from the tutorial as a base to solve the tasks. Then, answer the questions in the docx file.&#x20;
 {% endhint %}
 
 ### Task 0 - Flow chart
 
-Draw a simple flowchart of the algorithm from Tutorial 2.
+Draw a simple flowchart of the algorithm from the tutorial.
 
 A flowchart is a step-by-step approach until you find the answer. Flowcharts help you to visualize the processes in small steps and they are very similar to how the computer executes your instructions.
 
@@ -62,7 +62,7 @@ You can use the initial Grasshopper file to solve this task. However, if you use
 
 ### Task 3 - Tributary areas
 
-In the algorithm shown in the tutorial, the magnitude of the loads is defined with a number slider. And this value is valid no matter where along the bridge deck the loads are located. Find out how the magnitude of the loads can respond to the tributary areas, so that each cable supports its respective part of the bridge deck. Consider a design area load including both the self weight and the live loads of 4kN/m2. The bridge is 13.75m long and 0.8m wide.
+In the algorithm shown in the tutorial, the magnitude of the loads is defined with a number slider. And this value is valid no matter where along the bridge deck the loads are located. Find out how the magnitude of the loads can respond to the tributary areas, so that each cable supports its respective part of the bridge deck. Consider a design area load including both the self weight and the live loads of 4 kN/m<sup>2</sup>. The bridge is 13.75 m long and 0.8 m wide.
 
 {% hint style="warning" %}
 You can use the initial Grasshopper file to solve this task. However, if you use the Grasshopper definition that includes Tasks 1 and 2 you will get more interesting results.

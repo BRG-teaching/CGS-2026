@@ -19,7 +19,7 @@ Please follow the file naming convention as shown in the [**Syllabus**](../../sy
 {% endhint %}
 
 {% hint style="info" %}
-Use the Rhinoceros file from the tutorial as a base to solve the tasks. We recommend that you solve the tasks in a Grasshopper file different than that of the tutorial. Then, answer the questions in the docx file. You will find all these files [**here**](./#files).
+Use the Rhinoceros file from the tutorial as a base to solve the tasks. We recommend that you solve the tasks in a Grasshopper file different than that of the tutorial. Then, answer the questions in the docx file.&#x20;
 {% endhint %}
 
 ### Task 0 - Flow chart
