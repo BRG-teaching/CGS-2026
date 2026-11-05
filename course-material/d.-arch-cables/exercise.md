@@ -14,9 +14,9 @@ Please follow the file naming convention as shown in the [**Syllabus**](../../sy
 [**Submit here**](https://moodle-app2.let.ethz.ch/course/section.php?id=267971)
 {% endhint %}
 
-### Task 1 - Solve by hand
+### Task 1 - Solve manually in Rhinoceros&#x20;
 
-Using graphic statics, design a possible arch-cable structure for each of the two given load cases, and draw the corresponding force diagrams. Indicate the direction of the reaction forces, and mark tension forces in red, compression forces in blue and reaction forces in green. Solve this task in the separate file provided on Moodle.
+Using graphic statics, design a possible arch-cable structure for each of the two given load cases, and draw the corresponding force diagrams. Indicate the direction of the reaction forces, and mark tension forces in red, compression forces in blue and reaction forces in green. Solve this task in the Rhino canvas.&#x20;
 
 ### Task 2 - Interactive drawings
 
