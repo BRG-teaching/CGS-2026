@@ -16,3 +16,5 @@
 * [C. Form Finding](course-material/c.-form-finding/README.md)
   * [Tutorial](course-material/c.-form-finding/tutorial-3.md)
   * [Exercise](course-material/c.-form-finding/exercise-3.md)
+* [D. Arch-cables](course-material/d.-arch-cables/README.md)
+  * [Exercise](course-material/d.-arch-cables/exercise.md)
