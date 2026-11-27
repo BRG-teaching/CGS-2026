@@ -1,8 +1,6 @@
 # Uniformly Distributed Loads
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Picture1.jpg" alt=""><figcaption></figcaption></figure>
 
 The loads acting on your structural model can be either point loads, as we have worked with throughout the semester, or uniformly distributed loads.
 
