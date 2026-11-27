@@ -18,4 +18,5 @@
   * [Exercise](course-material/c.-form-finding/exercise-3.md)
 * [D. Arch-cables](course-material/d.-arch-cables/README.md)
   * [Exercise](course-material/d.-arch-cables/exercise.md)
-* [E. Individual Project](course-material/e.-individual-project.md)
+* [E. Individual Project](course-material/e.-individual-project/README.md)
+  * [Uniformly Distributed Loads](course-material/e.-individual-project/uniformly-distributed-loads.md)

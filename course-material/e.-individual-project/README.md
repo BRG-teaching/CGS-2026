@@ -25,25 +25,25 @@ The following five structural schemes are offered as possible starting points fo
 
 * **Hanging bridge with branching elements:** Explore branching geometry, support positions, and potentially 3D spatial configurations.
 
-<figure><img src="../.gitbook/assets/Sin título 48_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sin título 48_1.png" alt=""><figcaption></figcaption></figure>
 
 * **Arcade:** Investigate how changes in arch rise, span, or support conditions influence equilibrium.
 
-<figure><img src="../.gitbook/assets/Sin título 49_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sin título 49_1.png" alt=""><figcaption></figcaption></figure>
 
 
 
 * **Spatial arch–cable composition:** Explore three-dimensional arrangements of tension and compression elements.
 
-<figure><img src="../.gitbook/assets/Sin título 50_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sin título 50_1.png" alt=""><figcaption></figcaption></figure>
 
 * **Multistorey structure with inclined columns:** Investigate the transfer of forces from inclined columns to an external arch.
 
-<figure><img src="../.gitbook/assets/Sin título 51_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sin título 51_1.png" alt=""><figcaption></figcaption></figure>
 
 * **Musmeci-inspired bridge:** Explore the relationship between bridge geometry, support conditions, and structural equilibrium.
 
-<figure><img src="../.gitbook/assets/Sin título 52_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Sin título 52_1.png" alt=""><figcaption></figcaption></figure>
 
 ### Submission
 
